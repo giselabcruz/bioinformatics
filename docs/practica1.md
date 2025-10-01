@@ -8,7 +8,7 @@ El objetivo era aprender a **leer de forma crítica** un texto especializado, id
 
 - Sus **ideas principales**  
 - La **hipótesis de investigación**  
-- La **metodología** utilizada por los autores  
+- La **metodología** utilizada por ltores  
 
 ---
 
@@ -31,6 +31,6 @@ El trabajo completo puede consultarse en el siguiente documento:
 
 👉 [Abrir informe en PDF](docs/PA1_Agua_y_ARN.pdf)  
 
-## Visualización del informe
+## Visualización del informe  
 
-<iframe src="docs/PA1_Agua_y_ARN.pdf" width="100%" height="600px"></iframe>
+<iframe src="PA1_Agua_y_ARN.pdf" width="100%" height="600px"></iframe>
