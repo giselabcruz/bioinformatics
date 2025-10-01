@@ -24,14 +24,10 @@ El informe debía tener una extensión máxima de **4 páginas** y organizarse e
 6. **Propuesta** – una pregunta de investigación futura inspirada en la lectura  
 
 ---
-
-## Informe completo  
-
-El trabajo completo puede consultarse en el siguiente documento:  
+## Visualización del informe
 
 👉 [Abrir informe en PDF](PA1_Agua_y_ARN.pdf)  
 
-## Visualización del informe
 
 <style>
 .pdf-embed { position: relative; width: 100%; padding-top: 75%; }
