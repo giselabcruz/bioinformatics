@@ -15,4 +15,4 @@ He creado este repositorio para recopilar y organizar todas las prácticas de la
 
 ## 📂 Estructura del repositorio  
 Aquí expongo las prácticas, cada una organizada en su carpeta correspondiente, con su código, documentación y resultados.
-En el menú desplegable puedes encontrarlas.
+En el menú puedes encontrarlas.
