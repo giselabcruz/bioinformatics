@@ -30,7 +30,3 @@ El informe debía tener una extensión máxima de **4 páginas** y organizarse e
 El trabajo completo puede consultarse en el siguiente documento:  
 
 👉 [Abrir informe en PDF](docs/PA1_Agua_y_ARN.pdf)  
-
-## Visualización del informe  
-
-<iframe src="PA1_Agua_y_ARN.pdf" width="100%" height="600px"></iframe>
