@@ -7,7 +7,7 @@ He creado este repositorio para recopilar y organizar todas las prácticas de la
 ---
 
 ## 👩‍🏫 Sobre la asignatura  
-- **Profesora:** María Dolores Afonso Suárez  
+- **Profesores:** María Dolores Afonso Suárez, Victoria Torres Rodríguez, José Carlos Rodríguez Rodríguez
 - **Asignatura:** Bioinformática  
 - **Curso:** 4º del Grado en Ciencia e Ingeniería de Datos  
 
