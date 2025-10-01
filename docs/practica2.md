@@ -105,11 +105,10 @@ El pipeline debe informar de cada paso y producir las tres salidas: hebra comple
 - Informe en PDF con formato académico:
 
 
+## 📌 Código  
 
-## 📌 Código
-- Enlace al repositorio 👉https://github.com/giselabcruz/pa_2_bio
-
-- Código .zip:
+- 💻 Enlace al repositorio 👉 [Practica 2 - ejercicios](https://github.com/giselabcruz/pa_2_bio)  
+- 📦 Código en formato `.zip`: 
 
 ## 📌 Presentación
 - Apoyo visual en PDF: 
