@@ -1,11 +1,7 @@
----
-title: "🧪 Práctica 1 – Lectura crítica de artículos científicos"
-author: "Gisela Belmonte Cruz"
-date: "`r Sys.Date()`"
-output: html_document
----
+# Práctica 1: Lectura crítica de artículos científicos
 
-# Introducción  
+
+## Introducción  
 
 En esta primera práctica se nos pidió **trabajar en grupo con un artículo científico de biología molecular**.  
 El objetivo era aprender a **leer de forma crítica** un texto especializado, identificando:  
@@ -16,7 +12,7 @@ El objetivo era aprender a **leer de forma crítica** un texto especializado, id
 
 ---
 
-# Objetivos de la práctica  
+## Objetivos de la práctica  
 
 El informe debía tener una extensión máxima de **4 páginas** y organizarse en los siguientes apartados:  
 
@@ -29,7 +25,7 @@ El informe debía tener una extensión máxima de **4 páginas** y organizarse e
 
 ---
 
-# Informe completo  
+## Informe completo  
 
 El trabajo completo puede consultarse en el siguiente documento:  
 
