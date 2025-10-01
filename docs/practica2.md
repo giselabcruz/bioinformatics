@@ -112,6 +112,5 @@ El pipeline debe informar de cada paso y producir las tres salidas: hebra comple
 - Código .zip:
 
 ## 📌 Presentación
- 
-- Presentación oral con apoyo visual:
-- 
+- Apoyo visual en PDF: 
+
