@@ -101,7 +101,17 @@ El pipeline debe informar de cada paso y producir las tres salidas: hebra comple
 
 ---
 
-## 📌 Entrega  
-- Informe en PDF o `.md` (máx. 4 páginas, formato académico).  
-- Código (`.zip`) y enlace al repositorio.  
-- Presentación oral con apoyo visual.  
+## 📌 Informe
+- Informe en PDF con formato académico:
+
+
+
+## 📌 Código
+- Enlace al repositorio: 
+
+- Código .zip:
+
+## 📌 Presentación
+ 
+- Presentación oral con apoyo visual:
+- 
