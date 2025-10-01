@@ -1,4 +1,4 @@
-# Práctica 1: Lectura crítica de artículos científicos
+# 🧬 Práctica 1 - Lectura crítica de artículos científicos
 
 
 ## Introducción  
