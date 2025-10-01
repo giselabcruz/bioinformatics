@@ -107,7 +107,7 @@ El pipeline debe informar de cada paso y producir las tres salidas: hebra comple
 
 
 ## 📌 Código
-- Enlace al repositorio: 
+- Enlace al repositorio 👉https://github.com/giselabcruz/pa_2_bio
 
 - Código .zip:
 
