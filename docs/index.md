@@ -1,8 +1,18 @@
-# Entrega de Prácticas
+# 🧬 Repositorio de Prácticas de Bioinformática  
 
-Bienvenidos al portal de entrega de prácticas.  
-Aquí encontrarás la estructura para subir y documentar cada una de las cinco prácticas.
+¡Hola! 👋  
 
+He creado este repositorio para recopilar y organizar todas las prácticas de la asignatura de **Bioinformática (4º del Grado en Ciencia e Ingeniería de Datos, ULPGC)**.  
 
-**© 2025 María Dolores Afonso Suárez.** Este material se distribuye bajo licencia
-[Creative Commons Atribución 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.es).
+---
+
+## 👩‍🏫 Sobre la asignatura  
+- **Profesora:** María Dolores Afonso Suárez  
+- **Asignatura:** Bioinformática  
+- **Curso:** 4º del Grado en Ciencia e Ingeniería de Datos  
+
+---
+
+## 📂 Estructura del repositorio  
+Aquí expongo las prácticas, cada una organizada en su carpeta correspondiente, con su código, documentación y resultados.
+En el menú desplegable puedes encontrarlas.
