@@ -3,34 +3,41 @@
 ## Ejercicio 1. Replicación del ADN  
 **Objetivo:** comprender el mecanismo semiconservativo y las enzimas implicadas.  
 
-1. Considera la siguiente secuencia de ADN:  
+##### 1. Considera la siguiente secuencia de ADN:  
    `5’ – ATG CCG TTA GCT – 3’`  
    `3’ – TAC GGC AAT CGA – 5’`  
 
-2. **Realiza una ronda de replicación:**
-   - **Identifica las nuevas hebras que se formarán:**
-   
+---
 
-     TAC GGC AAT CGA
-   
-     ATG CCG TTA GCT
+##### 2. Realiza una ronda de replicación
 
-- **Indica la función de helicasa, primasa, ADN polimerasa y ligasa.**  
+**Identifica las nuevas hebras que se formarán**  
+> **Solución:**  
+> ```
+> TAC GGC AAT CGA
+> ATG CCG TTA GCT
+> ```
 
-  - **Helicasa:** desenrolla la doble hélice y rompe los puentes de hidrógeno entre las bases.  
-  - **Primasa:** sintetiza pequeños fragmentos de ARN (cebadores) para iniciar la síntesis.  
-  - **ADN polimerasa:** incorpora nucleótidos complementarios en dirección 5’→3’.  
-  - **Ligasa:** sella los fragmentos de Okazaki en la hebra retardada.  
+**Indica la función de helicasa, primasa, ADN polimerasa y ligasa**  
+> **Solución:**  
+> - **Helicasa:** desenrolla la doble hélice y rompe los puentes de hidrógeno entre las bases.  
+> - **Primasa:** sintetiza pequeños fragmentos de ARN (cebadores) para iniciar la síntesis.  
+> - **ADN polimerasa:** incorpora nucleótidos complementarios en dirección 5’→3’.  
+> - **Ligasa:** sella los fragmentos de Okazaki en la hebra retardada.  
 
-3. **Reflexiona: ¿qué ocurriría si la ADN polimerasa cometiera un error en una base y no se corrigiera?**  
+---
 
-   Si la ADN polimerasa comete un error y no lo corrige, se produce una **mutación**.  
+##### 3. Reflexiona
 
-   Esta puede ser:  
-   - **Silenciosa:** sin efecto en la proteína.  
-   - **De cambio de sentido:** altera un aminoácido.  
-   - **Sin sentido:** introduce un codón de paro prematuro.
-   Si ocurre en una región no codificante, el error puede no tener consecuencias.
+**¿Qué ocurriría si la ADN polimerasa cometiera un error en una base y no se corrigiera?**  
+> **Solución:**  
+> Si la ADN polimerasa comete un error y no lo corrige, se produce una **mutación**.  
+> Esta puede ser:  
+> - **Silenciosa:** sin efecto en la proteína.  
+> - **De cambio de sentido:** altera un aminoácido.  
+> - **Sin sentido:** introduce un codón de paro prematuro.  
+>   
+> Si ocurre en una región no codificante, el error puede no tener consecuencias.  
 
 
 **Extensión con Biopython:**  
