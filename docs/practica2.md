@@ -8,13 +8,12 @@
    `3’ – TAC GGC AAT CGA – 5’`  
 
 2. **Realiza una ronda de replicación:**
+   - **Identifica las nuevas hebras que se formarán:**
+   
 
-- **Identifica las nuevas hebras que se formarán:**  
-
-  ```
-  TAC GGC AAT CGA
-  ATG CCG TTA GCT
-  ```
+     TAC GGC AAT CGA
+   
+     ATG CCG TTA GCT
 
 - **Indica la función de helicasa, primasa, ADN polimerasa y ligasa.**  
 
