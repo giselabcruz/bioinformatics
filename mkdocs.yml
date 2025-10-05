@@ -2,9 +2,9 @@ site_name: Entrega de Prácticas
 
 nav:
   - Inicio: index.md
-  - Práctica de aula 1: practica1.md
-  - Práctica de aula 2: practica2.md
-  - Práctica de laboratorio 1: practicaLab1.md
+  - PA 1: practica1.md
+  - PA 2: practica2.md
+  - PL 1: practicaLab1.md
 
 theme:
   name: mkdocs
