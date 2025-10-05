@@ -9,10 +9,10 @@ nav:
   - Práctica 5: practica5.md
 
 theme:
-  name: social
+  name: mkdocs
+  custom_dir: custom_theme/
 
 extra:
   social:
-    - icon: "https://avatars.githubusercontent.com/u/99150361?v=4"
-      link: "https://github.com/giselabcruz"
-  footer: "© 2025 Gisela Belmonte Cruz"
+    - icon: fontawesome/brands/github
+      link: https://github.com/giselabcruz

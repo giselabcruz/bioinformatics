@@ -1,0 +1,92 @@
+{% extends "base.html" %}
+
+{% block footer %}
+<footer class="col-md-12 profile-footer" role="contentinfo" aria-label="Información de perfil y enlace a GitHub">
+  <hr>
+  <div class="profile-footer__container">
+    <a href="https://github.com/giselabcruz"
+       class="profile-footer__link"
+       target="_blank"
+       rel="noopener noreferrer"
+       aria-label="Ir al perfil de GitHub de @giselabcruz">
+      <img
+        src="https://avatars.githubusercontent.com/u/99150361?v=4"
+        alt="Foto de Gisela Belmonte Cruz"
+        class="profile-footer__img"
+        width="130"
+        height="130"
+        loading="lazy"
+        decoding="async">
+      <p class="profile-footer__user">@giselabcruz</p>
+      <p class="profile-footer__tagline">Bioinformática • ULPGC</p>
+    </a>
+  </div>
+
+  <style>
+    .profile-footer {
+      text-align: center;
+      padding: 2rem 0;
+      background: linear-gradient(180deg, #ffffff 0%, #f8f9fa 100%);
+    }
+
+    html[data-bs-theme="dark"] .profile-footer {
+      background: linear-gradient(180deg, #1e1e1e 0%, #2c2c2c 100%);
+    }
+
+    .profile-footer__container {
+      display: inline-block;
+      text-align: center;
+    }
+
+    .profile-footer__link {
+      text-decoration: none;
+      color: inherit;
+      display: inline-block;
+      transition: transform 0.3s ease, opacity 0.3s ease;
+    }
+
+    .profile-footer__link:hover {
+      transform: scale(1.03);
+      opacity: 0.95;
+    }
+
+    .profile-footer__img {
+      border-radius: 50%;
+      border: 3px solid #ddd;
+      box-shadow: 0 8px 18px rgba(0, 0, 0, 0.15);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    html[data-bs-theme="dark"] .profile-footer__img {
+      border-color: #555;
+      box-shadow: 0 8px 18px rgba(255, 255, 255, 0.08);
+    }
+
+    .profile-footer__img:hover {
+      transform: scale(1.05);
+      box-shadow: 0 10px 24px rgba(0, 0, 0, 0.25);
+    }
+
+    .profile-footer__user {
+      font-weight: 600;
+      font-size: 1.1rem;
+      margin-top: 0.75rem;
+      color: #333;
+    }
+
+    html[data-bs-theme="dark"] .profile-footer__user {
+      color: #eee;
+    }
+
+    .profile-footer__tagline {
+      font-size: 0.95rem;
+      color: #666;
+      opacity: 0.85;
+    }
+
+    html[data-bs-theme="dark"] .profile-footer__tagline {
+      color: #bbb;
+    }
+  </style>
+</footer>
+{% endblock %}
