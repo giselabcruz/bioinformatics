@@ -17,11 +17,11 @@
   <object data="../PA2_Del_ADN_a_la_Proteína.pdf" type="application/pdf"></object>
 </div>
 
-## Enlace al repositorio: 
+## Enlace al repositorio
 
 [Practica 2 - ejercicios](https://github.com/giselabcruz/pa_2_bio)
 
-## Código + informe (`.zip`): 
+## Código + informe (`.zip`) 
 [PA2.zip](PA2.zip)
 
  
