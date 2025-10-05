@@ -1,4 +1,4 @@
-# 🧬 Práctica 2 – Del ADN a la Proteína  
+# 🧬 Práctica de Aula 2 – Del ADN a la Proteína  
 
 ## Visualización del informe
 
