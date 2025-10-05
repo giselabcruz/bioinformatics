@@ -1,6 +1,6 @@
 site_name: Entrega de Prácticas
 nav:
-  - Inicio: index.md
+  - Inicio: index.html
   - Práctica 1: practica1.md
   - Práctica 2: practica2.md
   - Práctica 3: practica3.md
