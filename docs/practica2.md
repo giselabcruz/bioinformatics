@@ -20,9 +20,9 @@
 ## Enlace al repositorio: 
 
 [Practica 2 - ejercicios](https://github.com/giselabcruz/pa_2_bio)
-## Código en formato `.zip`: 
 
+## Código + informe (`.zip`): 
+[PA2.zip](PA2.zip)
 
-## Presentación: 
-- Apoyo visual en PDF: 
+ 
 
