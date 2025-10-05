@@ -25,6 +25,33 @@
   </div>
 
   <style>
+    /* ===== Fuente estilo LaTeX monoespaciada ===== */
+    body, .profile-footer {
+      font-family: 'Courier New', Courier, 'Liberation Mono', monospace;
+      letter-spacing: 0.3px;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    /* ===== Colores morados para enlaces ===== */
+    :root {
+      --link-purple: #6f2dbd;
+      --link-purple-hover: #8c38ff;
+      --link-purple-visited: #5a23a2;
+    }
+    a { color: var(--link-purple); }
+    a:hover { color: var(--link-purple-hover); text-decoration: underline; }
+    a:visited { color: var(--link-purple-visited); }
+
+    html[data-bs-theme="dark"] {
+      --link-purple: #b28dff;
+      --link-purple-hover: #d3b7ff;
+      --link-purple-visited: #a884ff;
+    }
+    html[data-bs-theme="dark"] a { color: var(--link-purple); }
+    html[data-bs-theme="dark"] a:hover { color: var(--link-purple-hover); }
+    html[data-bs-theme="dark"] a:visited { color: var(--link-purple-visited); }
+
+    /* ===== Navbar ===== */
     .navbar,
     .navbar-dark.bg-primary {
       background: linear-gradient(90deg, #a445b2 0%, #d41872 50%, #ff6f91 100%) !important;
@@ -34,19 +61,20 @@
     .navbar-brand {
       color: #fff !important;
       font-weight: 500;
-      transition: opacity 0.2s ease-in-out;
+      transition: opacity 0.25s ease-in-out;
     }
     .navbar .nav-link:hover,
     .navbar-brand:hover {
-      opacity: 0.8;
+      opacity: 0.85;
     }
     .navbar-toggler-icon {
       filter: brightness(0) invert(1);
     }
 
+    /* ===== Footer ===== */
     .profile-footer {
       text-align: center;
-      padding: 2rem 0;
+      padding: 2rem 0 2.5rem;
       background: linear-gradient(180deg, #ffffff 0%, #f8f9fa 100%);
     }
     html[data-bs-theme="dark"] .profile-footer {
@@ -68,6 +96,7 @@
       opacity: 0.95;
     }
 
+    /* Imagen con halo gradiente */
     .profile-footer__img-wrapper {
       display: inline-block;
       padding: 4px;
@@ -77,7 +106,7 @@
       transition: transform 0.3s ease, box-shadow 0.3s ease;
     }
     .profile-footer__img-wrapper:hover {
-      transform: scale(1.05);
+      transform: scale(1.06);
       box-shadow: 0 6px 22px rgba(164, 69, 178, 0.45);
     }
 
@@ -94,24 +123,23 @@
       box-shadow: 0 4px 18px rgba(255, 111, 145, 0.25);
     }
 
+    /* ===== Texto ===== */
     .profile-footer__user {
-      font-weight: 600;
+      font-weight: bold;
       font-size: 1.1rem;
-      margin-top: 0.75rem;
-      color: #333;
+      margin-top: 0.9rem;
+      color: #2b2b2b;
     }
-    html[data-bs-theme="dark"] .profile-footer__user {
-      color: #eee;
-    }
+    html[data-bs-theme="dark"] .profile-footer__user { color: #eee; }
 
     .profile-footer__tagline {
+      font-weight: 400;
       font-size: 0.95rem;
       color: #666;
-      opacity: 0.85;
+      opacity: 0.9;
+      margin-top: 0.2rem;
     }
-    html[data-bs-theme="dark"] .profile-footer__tagline {
-      color: #bbb;
-    }
+    html[data-bs-theme="dark"] .profile-footer__tagline { color: #bbb; }
   </style>
 </footer>
 {% endblock %}
