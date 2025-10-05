@@ -9,26 +9,46 @@
        target="_blank"
        rel="noopener noreferrer"
        aria-label="Ir al perfil de GitHub de @giselabcruz">
-      <img
-        src="https://avatars.githubusercontent.com/u/99150361?v=4"
-        alt="Foto de Gisela Belmonte Cruz"
-        class="profile-footer__img"
-        width="130"
-        height="130"
-        loading="lazy"
-        decoding="async">
+      <div class="profile-footer__img-wrapper">
+        <img
+          src="https://avatars.githubusercontent.com/u/99150361?v=4"
+          alt="Foto de Gisela Belmonte Cruz"
+          class="profile-footer__img"
+          width="130"
+          height="130"
+          loading="lazy"
+          decoding="async">
+      </div>
       <p class="profile-footer__user">@giselabcruz</p>
       <p class="profile-footer__tagline">Bioinformática • ULPGC</p>
     </a>
   </div>
 
   <style>
+    .navbar,
+    .navbar-dark.bg-primary {
+      background: linear-gradient(90deg, #a445b2 0%, #d41872 50%, #ff6f91 100%) !important;
+      border: none;
+    }
+    .navbar .nav-link,
+    .navbar-brand {
+      color: #fff !important;
+      font-weight: 500;
+      transition: opacity 0.2s ease-in-out;
+    }
+    .navbar .nav-link:hover,
+    .navbar-brand:hover {
+      opacity: 0.8;
+    }
+    .navbar-toggler-icon {
+      filter: brightness(0) invert(1);
+    }
+
     .profile-footer {
       text-align: center;
       padding: 2rem 0;
       background: linear-gradient(180deg, #ffffff 0%, #f8f9fa 100%);
     }
-
     html[data-bs-theme="dark"] .profile-footer {
       background: linear-gradient(180deg, #1e1e1e 0%, #2c2c2c 100%);
     }
@@ -37,34 +57,41 @@
       display: inline-block;
       text-align: center;
     }
-
     .profile-footer__link {
       text-decoration: none;
       color: inherit;
       display: inline-block;
       transition: transform 0.3s ease, opacity 0.3s ease;
     }
-
     .profile-footer__link:hover {
       transform: scale(1.03);
       opacity: 0.95;
     }
 
-    .profile-footer__img {
+    .profile-footer__img-wrapper {
+      display: inline-block;
+      padding: 4px;
       border-radius: 50%;
-      border: 3px solid #ddd;
-      box-shadow: 0 8px 18px rgba(0, 0, 0, 0.15);
+      background: linear-gradient(135deg, #a445b2 0%, #ff6f91 100%);
+      box-shadow: 0 4px 18px rgba(164, 69, 178, 0.35);
       transition: transform 0.3s ease, box-shadow 0.3s ease;
     }
-
-    html[data-bs-theme="dark"] .profile-footer__img {
-      border-color: #555;
-      box-shadow: 0 8px 18px rgba(255, 255, 255, 0.08);
+    .profile-footer__img-wrapper:hover {
+      transform: scale(1.05);
+      box-shadow: 0 6px 22px rgba(164, 69, 178, 0.45);
     }
 
-    .profile-footer__img:hover {
-      transform: scale(1.05);
-      box-shadow: 0 10px 24px rgba(0, 0, 0, 0.25);
+    .profile-footer__img {
+      border-radius: 50%;
+      display: block;
+      width: 130px;
+      height: 130px;
+      border: 3px solid #fff;
+    }
+
+    html[data-bs-theme="dark"] .profile-footer__img-wrapper {
+      background: linear-gradient(135deg, #b864d0 0%, #ff86ac 100%);
+      box-shadow: 0 4px 18px rgba(255, 111, 145, 0.25);
     }
 
     .profile-footer__user {
@@ -73,7 +100,6 @@
       margin-top: 0.75rem;
       color: #333;
     }
-
     html[data-bs-theme="dark"] .profile-footer__user {
       color: #eee;
     }
@@ -83,7 +109,6 @@
       color: #666;
       opacity: 0.85;
     }
-
     html[data-bs-theme="dark"] .profile-footer__tagline {
       color: #bbb;
     }
