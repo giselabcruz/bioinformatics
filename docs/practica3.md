@@ -29,27 +29,37 @@ abordarse en el futuro? Piensa en temas como la privacidad de los datos, el uso 
 información genética, el sesgo en los datos o la equidad científica.
 ---
 
-## 📄 Visualización del informe
+## Visualización del informe
 
 [Abrir informe en PDF](Avances_y_aplicaciones_del_PGH_Gisela.pdf)
 
 <style>
-.pdf-embed { 
-  position: relative; 
-  width: 100%; 
-  padding-top: 75%; 
+.pdf-embed {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 75%; /* relación de aspecto 4:3 */
+  overflow: hidden;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+  margin-top: 1em;
+  margin-bottom: 1em;
 }
-.pdf-embed iframe, 
+
+.pdf-embed iframe,
 .pdf-embed object {
-  position: absolute; 
-  top: 0; 
-  left: 0; 
-  width: 100%; 
-  height: 100%; 
-  border: 0; 
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
 }
 </style>
 
 <div class="pdf-embed">
-  <object data="Avances_y_aplicaciones_del_PGH_Gisela.pdf" type="application/pdf"></object>
+  <object data="Avances_y_aplicaciones_del_PGH_Gisela.pdf" type="application/pdf">
+    <p>Tu navegador no puede mostrar el PDF. 
+       Puedes <a href="Avances_y_aplicaciones_del_PGH_Gisela.pdf" target="_blank">abrirlo aquí</a>.</p>
+  </object>
 </div>
