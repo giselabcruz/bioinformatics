@@ -1,5 +1,7 @@
 # 🧬 Práctica de Aula 3 - Avances y Aplicaciones del PGH
 
+---
+
 ### - Artículo seleccionado -
 
 **Referencia:**  
