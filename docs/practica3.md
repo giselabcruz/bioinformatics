@@ -1,6 +1,6 @@
 # 🧬 Práctica de Aula 3 - Avances y Aplicaciones del PGH
 
-## 📘 Artículo seleccionado
+### - Artículo seleccionado -
 
 **Referencia:**  
 Deorowicz, S., Danek, A. & Niemiec, M. (2015). *GDC 2: Compression of large collections of genomes.*  
@@ -16,24 +16,15 @@ El algoritmo se basa en una doble factorización de Ziv–Lempel y aprovecha la 
 
 ## Preguntas que se responden en el informe realizado
 
-### 1. Contexto e impacto
-- ¿Por qué la caída del precio de la secuenciación genómica transformó el panorama de la bioinformática en 2015?  
-- ¿Cómo influyó este avance en la investigación médica y en la medicina personalizada?
+### Cuestión 1
+¿Qué impacto crees que ha tenido el avance descrito en el artículo en el desarrollo actual de la
+bioinformática y la medicina genómica? Reflexiona sobre cómo ese estudio ha contribuido al análisis
+de datos, a la interpretación del genoma o al progreso tecnológico.
 
-### 2. Aspectos técnicos
-- ¿Qué características hacen que **GDC 2** sea más eficiente que otros compresores como FRESCO o GDC-ultra?  
-- ¿Qué papel juega la similitud genética entre individuos en la mejora de la compresión?  
-- ¿Cómo afecta el número de referencias o el uso de varios hilos de ejecución a la velocidad y al rendimiento?
-
-### 3. Dimensión ética y social
-- ¿Qué desafíos éticos surgen al almacenar y compartir miles de genomas humanos?  
-- ¿Qué riesgos existen para la privacidad de los individuos?  
-- ¿Cómo podrían estos avances aumentar la desigualdad entre países o instituciones con distinto acceso a tecnología?
-
-### 4. Reflexión final
-- ¿De qué manera este artículo refleja los retos y oportunidades de la bioinformática en la década de 2010?  
-- ¿Qué avances tecnológicos posteriores (por ejemplo, inteligencia artificial o cloud computing) podrían potenciar aún más el enfoque de GDC 2?
-
+### Cuestión 2
+¿Qué desafíos éticos, técnicos o sociales identificas a partir del estudio analizado y cómo podrían
+abordarse en el futuro? Piensa en temas como la privacidad de los datos, el uso responsable de la
+información genética, el sesgo en los datos o la equidad científica.
 ---
 
 ## 📄 Visualización del informe
