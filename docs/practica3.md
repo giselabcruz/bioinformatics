@@ -31,8 +31,7 @@ información genética, el sesgo en los datos o la equidad científica.
 
 ## Visualización del informe
 
-[Abrir informe en PDF](Avances_y_aplicaciones_del_PGH_Gisela.pdf)  
-
+[📄 Abrir informe en PDF](Avances_y_aplicaciones_del_PGH_Gisela.pdf)
 
 <style>
 .pdf-embed { position: relative; width: 100%; padding-top: 75%; }
@@ -43,5 +42,5 @@ información genética, el sesgo en los datos o la equidad científica.
 </style>
 
 <div class="pdf-embed">
-  <object data="../Avances_y_aplicaciones_del_PHG_Gisela.pdf" type="application/pdf"></object>
+  <object data="../Avances_y_aplicaciones_del_PGH_Gisela.pdf" type="application/pdf"></object>
 </div>
