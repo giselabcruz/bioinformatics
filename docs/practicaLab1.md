@@ -25,3 +25,19 @@ Además, se ha realizado una búsqueda de información y obtención de los archi
 
 ## Enlace al repositorio
 [Práctica de Laboratorio 1 – Ejercicios](https://github.com/giselabcruz/pl_1_bio)
+
+## Visualización del informe
+
+[Abrir informe en PDF](Pr%C3%A1ctica_Lab1_BIO_GBC_DMF.pdf)  
+
+<style>
+.pdf-embed { position: relative; width: 100%; padding-top: 75%; }
+.pdf-embed iframe, .pdf-embed object {
+  position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+  border: 0;
+}
+</style>
+
+<div class="pdf-embed">
+  <object data="../Pr%C3%A1ctica_Lab1_BIO_GBC_DMF.pdf" type="application/pdf"></object>
+</div>
