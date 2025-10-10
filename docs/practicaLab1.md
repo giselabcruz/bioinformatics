@@ -28,7 +28,7 @@ Además, se ha realizado una búsqueda de información y obtención de los archi
 
 ## Visualización del informe
 
-[Abrir informe en PDF](Pr%C3%A1ctica_Lab1_BIO_GBC_DMF.pdf)  
+[Abrir informe en PDF](Practica_Lab1_BIO_GBC_DMF.pdf)  
 
 <style>
 .pdf-embed { position: relative; width: 100%; padding-top: 75%; }
@@ -39,5 +39,5 @@ Además, se ha realizado una búsqueda de información y obtención de los archi
 </style>
 
 <div class="pdf-embed">
-  <object data="../Pr%C3%A1ctica_Lab1_BIO_GBC_DMF.pdf" type="application/pdf"></object>
+  <object data="../Practica_Lab1_BIO_GBC_DMF.pdf" type="application/pdf"></object>
 </div>
