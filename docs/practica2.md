@@ -38,7 +38,7 @@
 
 ---
 
-## Imagen del ejercicio
+## Imagen de la realización del ejercicio 6 en papel
 
 <div class="pdf-embed">
   <object data="../ejer6.jpeg" type="image/jpeg">
