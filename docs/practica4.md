@@ -13,7 +13,7 @@ A lo largo de la práctica se abordaron tres escenarios complementarios:
 - **Cuestión 2:** Se elaboró un nuevo grafo con diferentes lecturas, logrando encontrar un **camino euleriano** que permitió reconstruir la secuencia original de ADN.  
 - **Cuestión 3:** Se analizó un caso con **repeticiones y ambigüedades**, donde no fue posible determinar un único camino euleriano, reflexionando sobre las causas y posibles soluciones, como variar la longitud de \(k\) o emplear técnicas complementarias.
 
-El conjunto de ejercicios permitió demostrar tanto la potencia como las limitaciones de estos algoritmos en el ensamblaje de genomas y su relevancia en los sistemas de **secuenciación de próxima generación (NGS)**.
+El conjunto de ejercicios permitió demostrar tanto la potencia como las limitaciones de estos algoritmos en el ensamblaje de genomas.
 
 ---
 
