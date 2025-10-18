@@ -15,6 +15,6 @@ Todas las pruebas se encuentran documentadas en el **README** del repositorio, d
 
 ---
 
-## 🔗 Enlace al repositorio  
+## Enlaces a los repositorios  
 
-[Práctica de Laboratorio 2 – Ejercicio 1](https://github.com/giselabcruz/bio_Sequence_Aligner)
+1) [Práctica de Laboratorio 2 – Ejercicio 1](https://github.com/giselabcruz/bio_Sequence_Aligner)
