@@ -17,7 +17,7 @@ El conjunto de ejercicios permitió demostrar tanto la potencia como las limitac
 
 ---
 
-## 📘 Visualización de los ejercicios
+## Visualización de los ejercicios
 
 [📄 **Abrir informe completo en PDF**](Algoritmos_de_Brujin_Gisela_Diego.pdf)
 
