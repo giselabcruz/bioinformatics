@@ -17,13 +17,40 @@ El conjunto de ejercicios permitió demostrar tanto la potencia como las limitac
 
 ---
 
-## Visualización de los ejercicios
+## 📘 Visualización de los ejercicios
 
-[📄 **Abrir informe en PDF**](Algoritmos_de_Brujin_Gisela_Diego.pdf)
+[📄 **Abrir informe completo en PDF**](Algoritmos_de_Brujin_Gisela_Diego.pdf)
 
-<div align="center">
-  <object data="Algoritmos_de_Brujin_Gisela_Diego.pdf" type="application/pdf" width="100%" height="600px">
-    <p>Tu navegador no puede mostrar el PDF directamente.  
-    Puedes <a href="Algoritmos_de_Brujin_Gisela_Diego.pdf">descargarlo aquí</a>.</p>
+<style>
+.pdf-embed {
+  position: relative;
+  width: 100%;
+  padding-top: 70%; /* altura dinámica */
+  margin-top: 1em;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  overflow: hidden;
+}
+.pdf-embed iframe,
+.pdf-embed object {
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  border: none;
+}
+.pdf-fallback {
+  text-align: center;
+  font-style: italic;
+  color: #555;
+  margin-top: 1em;
+}
+</style>
+
+<div class="pdf-embed">
+  <object data="Algoritmos_de_Brujin_Gisela_Diego.pdf" type="application/pdf">
+    <div class="pdf-fallback">
+      Tu navegador no permite visualizar el PDF directamente.<br>
+      👉 <a href="Algoritmos_de_Brujin_Gisela_Diego.pdf" target="_blank">Haz clic aquí para descargarlo</a>.
+    </div>
   </object>
 </div>
