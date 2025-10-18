@@ -6,6 +6,7 @@ nav:
   - PA 2: practica2.md
   - PA 3: practica3.md
   - PL 1: practicaLab1.md
+  - PL 2: practicaLab2.md
 
 theme:
   name: mkdocs
