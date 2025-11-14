@@ -1,10 +1,16 @@
 # 🧬 Práctica de Laboratorio 2 — Ficheros
 
 Esta práctica se centra en el manejo, lectura y procesamiento de ficheros en bioinformática, especialmente utilizando Python y Biopython. A lo largo del trabajo se desarrollan ejercicios que permiten trabajar con secuencias biológicas reales (FASTA) y estructuras proteicas (PDB), así como visualizaciones interactivas mediante `py3Dmol`.
- 
+
+---
+## Descarga del ZIP del proyecto
+
+➡️ [Descargar ZIP](./Practica_Lab2_Ficheros.zip)
+
+---
 ## Repositorio
 
-1) **Práctica de Laboratorio 2**: https://github.com/giselabcruz/P2_Ficheros
+- **[https://github.com/giselabcruz/P2_Ficheros](https://github.com/giselabcruz/P2_Ficheros)**
 
 ---
 
@@ -44,10 +50,4 @@ Proteínas utilizadas:
 |----------|----------|----------|
 | ![Oxytocin](protein_images/oxytocin.png) | ![Collagen](protein_images/collagen.png) | ![Keratin](protein_images/keratin.png) |
 
-
----
-
-## Descarga del ZIP del proyecto
-
-➡️ [Descargar ZIP](./Practica_Lab2_Ficheros.zip)
 
