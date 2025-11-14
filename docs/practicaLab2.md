@@ -1,20 +1,53 @@
-# 🧬 Práctica de Laboratorio 2  
+# 🧬 Práctica de Laboratorio 2 — Ficheros
 
-Esta práctica consistió en una serie de ejercicios que se fueron proponiendo a lo largo de las semanas en las clases de laboratorio de la asignatura.  
+Esta práctica se centra en el manejo, lectura y procesamiento de ficheros en bioinformática, especialmente utilizando Python y Biopython. A lo largo del trabajo se desarrollan ejercicios que permiten trabajar con secuencias biológicas reales (FASTA) y estructuras proteicas (PDB), así como visualizaciones interactivas mediante `py3Dmol`.
+ 
+## Repositorio
 
----
-
-## Ejercicio 1  
-
-**a)** Codifica en **Python** el algoritmo de **Needleman–Wunsch**.  
-**b)** A continuación, propón tu propio algoritmo de alineamiento y codifícalo.  
-**c)** Posteriormente, realiza varios **alineamientos globales** para poner a prueba ambos algoritmos (a) y (b), mostrando sus resultados. Las cadenas pueden estar compuestas por **nucleótidos o aminoácidos**, y pueden generarse **manualmente o de forma aleatoria**.  
-> Las secuencias son de longitud ≤ 10 para facilitar la interpretación de los resultados, ya que fue una recomendación que nos dió el profesor.
-
-Todas las pruebas se encuentran documentadas en el **README** del repositorio, donde se pueden consultar los experimentos realizados para la verificación del funcionamiento correcto del algoritmo que hicimos.  
+1) **Práctica de Laboratorio 2**: https://github.com/giselabcruz/P2_Ficheros
 
 ---
 
-## Enlaces a los repositorios  
+## Ejercicio 1 — Manejo de secuencias FASTA
 
-1) [Práctica de Laboratorio 2 – Ejercicio 1](https://github.com/giselabcruz/bio_Sequence_Aligner)
+En este ejercicio se trabaja sobre ficheros FASTA mediante Python. Las tareas realizadas fueron:
+
+#### ✔ Lectura de secuencias de ADN desde un archivo FASTA  
+#### ✔ Cálculo del contenido GC  
+#### ✔ Traducción automática ADN → proteína  
+#### ✔ Escritura de las secuencias traducidas en un nuevo archivo FASTA  
+#### ✔ Representación gráfica (histogramas, comparaciones, etc.)
+
+**Archivos usados:**
+
+- Entrada: `input/dna_seqs.fasta`  
+- Salida: `output/proteins.fasta`  
+
+---
+
+## Ejercicio 2 — Búsqueda y visualización de proteínas
+
+Este ejercicio se centra en el trabajo con ficheros PDB y visualización estructural.
+
+#### ✔ Descarga de secuencias reales en formato FASTA  
+#### ✔ Recuperación de estructuras 3D reales desde el Protein Data Bank (PDB)  
+Proteínas utilizadas:
+
+- **Oxitocina** — PDB: *1NPO*  
+- **Colágeno** — PDB: *1CAG*  
+- **Queratina** — PDB: *4ZRY*
+
+#### ✔ Visualización 3D con `py3Dmol`  
+
+
+| Oxytocin | Collagen | Keratin |
+|----------|----------|----------|
+| ![Oxytocin](protein_images/oxytocin.png) | ![Collagen](protein_images/collagen.png) | ![Keratin](protein_images/keratin.png) |
+
+
+---
+
+## Descarga del ZIP del proyecto
+
+➡️ [Descargar ZIP](./Practica_Lab2_Ficheros.zip)
+
