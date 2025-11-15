@@ -47,7 +47,7 @@ El conjunto de ejercicios permitió demostrar tanto la potencia como las limitac
 </style>
 
 <div class="pdf-embed">
-  <object data="Algoritmos_de_Brujin_Gisela_Diego.pdf" type="application/pdf">
+  <object data="../Algoritmos_de_Brujin_Gisela_Diego.pdf" type="application/pdf">
     <div class="pdf-fallback">
       Tu navegador no permite visualizar el PDF directamente.<br>
       👉 <a href="Algoritmos_de_Brujin_Gisela_Diego.pdf" target="_blank">Haz clic aquí para descargarlo</a>.
