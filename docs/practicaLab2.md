@@ -45,8 +45,17 @@ Proteínas utilizadas:
 - **Colágeno** — PDB: *1CAG*  
 - **Queratina** — PDB: *4ZRY*
 
-#### ✔ Visualización 3D con `py3Dmol`  
+#### ✔ Visualización 3D con `py3Dmol`
 
-| Oxytocin | Collagen | Keratin |
-|----------|----------|----------|
-| ![Oxytocin](protein_images/oxytocin.png) | ![Collagen](protein_images/collagen.png) | ![Keratin](protein_images/keratin.png) |
+<table>
+  <tr>
+    <th>Oxitocina</th>
+    <th>Colágeno</th>
+    <th>Queratina</th>
+  </tr>
+  <tr>
+    <td><img src="../protein_gifs/oxitocina.gif" width="260"/></td>
+    <td><img src="../protein_gifs/colageno.gif" width="260"/></td>
+    <td><img src="../protein_gifs/keratina.gif" width="260"/></td>
+  </tr>
+</table>
