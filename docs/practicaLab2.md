@@ -12,7 +12,7 @@ Esta práctica se centra en el manejo, lectura y procesamiento de ficheros en bi
 
 ## Repositorio
 
-1) **Práctica de Laboratorio 2**: https://github.com/giselabcruz/P2_Ficheros
+- **Práctica de Laboratorio 2**: [https://github.com/giselabcruz/P2_Ficheros](https://github.com/giselabcruz/P2_Ficheros)
 
 ---
 
