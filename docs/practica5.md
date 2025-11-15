@@ -49,7 +49,7 @@ Necesitas descargar Tableau Reader para poder subir el archivo .twbx
 </style>
 
 <div class="pdf-embed">
-  <object data="Report_Sistema_Inmunitario_BIOINF_Diego_Gisela.pdf" type="application/pdf">
+  <object data="../Report_Sistema_Inmunitario_BIOINF_Diego_Gisela.pdf" type="application/pdf">
     <div class="pdf-fallback">
       Tu navegador no permite visualizar el PDF directamente.<br>
        <a href="Report_Sistema_Inmunitario_BIOINF_Diego_Gisela.pdf" target="_blank">Haz clic aquí para descargarlo</a>.
