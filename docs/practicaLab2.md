@@ -47,15 +47,6 @@ Proteínas utilizadas:
 
 #### ✔ Visualización 3D con `py3Dmol`
 
-<table>
-  <tr>
-    <th>Oxitocina</th>
-    <th>Colágeno</th>
-    <th>Queratina</th>
-  </tr>
-  <tr>
-    <td><img src="../protein_gifs/oxitocina.gif" width="260"/></td>
-    <td><img src="../protein_gifs/colageno.gif" width="260"/></td>
-    <td><img src="../protein_gifs/keratina.gif" width="260"/></td>
-  </tr>
-</table>
+![colageno.gif](protein_gifs/colageno.gif)
+![keratina.gif](protein_gifs/keratina.gif)
+![oxitocina.gif](protein_gifs/oxitocina.gif)
