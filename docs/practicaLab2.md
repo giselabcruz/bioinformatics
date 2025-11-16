@@ -47,6 +47,52 @@ Proteínas utilizadas:
 
 #### ✔ Visualización 3D con `py3Dmol`
 
-![colageno.gif](protein_gifs/colageno.gif)
-![keratina.gif](protein_gifs/keratina.gif)
-![oxitocina.gif](protein_gifs/oxitocina.gif)
+<style>
+.card-grid {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 1.5em;
+}
+
+.card {
+  background: linear-gradient(145deg, #f9f9ff, #ececff);
+  border-radius: 16px;
+  padding: 18px;
+  width: 200px;
+  text-align: center;
+  box-shadow: 0 4px 14px rgba(0,0,50,0.15);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 10px 25px rgba(0,0,50,0.25);
+}
+
+.card img {
+  border-radius: 12px;
+  width: 100%;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.2);
+  margin-top: 10px;
+}
+</style>
+
+<div class="card-grid">
+
+  <div class="card">
+    <h4>Colágeno</h4>
+    <img src="protein_gifs/colageno.gif" alt="Colágeno">
+  </div>
+
+  <div class="card">
+    <h4>Queratina</h4>
+    <img src="protein_gifs/queratina.gif" alt="Queratina">
+  </div>
+
+  <div class="card">
+    <h4>Oxitocina</h4>
+    <img src="protein_gifs/oxitocina.gif" alt="Oxitocina">
+  </div>
+
+</div>
