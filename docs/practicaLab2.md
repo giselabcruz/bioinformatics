@@ -82,17 +82,17 @@ Proteínas utilizadas:
 
   <div class="card">
     <h4>Colágeno</h4>
-    <img src="protein_gifs/colageno.gif" alt="Colágeno">
+    <img src="./protein_gifs/colageno.gif" alt="Colágeno">
   </div>
 
   <div class="card">
     <h4>Queratina</h4>
-    <img src="protein_gifs/queratina.gif" alt="Queratina">
+    <img src="./protein_gifs/queratina.gif" alt="Queratina">
   </div>
 
   <div class="card">
     <h4>Oxitocina</h4>
-    <img src="protein_gifs/oxitocina.gif" alt="Oxitocina">
+    <img src="./protein_gifs/oxitocina.gif" alt="Oxitocina">
   </div>
 
 </div>
