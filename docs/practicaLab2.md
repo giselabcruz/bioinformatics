@@ -16,7 +16,7 @@ Haz clic para obtener el paquete completo del proyecto:
 
 Puedes consultar el repositorio completo aquí:
 
-- **Práctica de Laboratorio 2**: https://github.com/giselabcruz/P2_Ficheros
+- **Práctica de Laboratorio 2**: [https://github.com/giselabcruz/P2_Ficheros](https://github.com/giselabcruz/P2_Ficheros)
 
 ---
 
