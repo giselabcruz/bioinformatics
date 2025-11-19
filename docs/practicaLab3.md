@@ -4,8 +4,7 @@
 
 Puedes consultar el repositorio completo aquí:
 
-- https://github.com/giselabcruz/P3_Alineamientos
-
+- [https://github.com/giselabcruz/P3_Alineamientos](https://github.com/giselabcruz/P3_Alineamientos)
 
 ## Objetivo de la práctica
 
