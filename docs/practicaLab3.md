@@ -1,6 +1,14 @@
 # 🧬 Práctica de Laboratorio 3 — Alineamientos de Proteínas
 
-## 📌 Objetivo de la práctica
+## ***Repositorio oficial de GitHub***
+
+Puedes consultar el repositorio completo aquí:
+
+- https://github.com/giselabcruz/P3_Alineamientos
+
+
+## Objetivo de la práctica
+
 Aplicar la clase **`PairwiseAligner`** de *Biopython* para alinear secuencias de **aminoácidos** y analizar cómo varían los resultados según el origen de las secuencias y la matriz de sustitución empleada.
 
 ---
@@ -46,26 +54,11 @@ Incluye una reflexión comparando:
 
 ---
 
-## Descarga del ZIP del proyecto
+## Descarga el ZIP del proyecto
 
 Haz clic para obtener el paquete completo del proyecto:
 
 ➡️ **[Descargar ZIP](./P3_Alineamientos_G9_Gisela_Diego.zip)**
-
----
-
-## ***Repositorio oficial de GitHub***
-
-Puedes consultar el repositorio completo aquí:
-
-- **Práctica de Laboratorio 3**: https://github.com/giselabcruz/P3_Alineamientos
-
----
-
-## **Enunciado**: Usa la clase PairWiseAligner de Biopython para alinear secuencias
-de aminoácidos (proteínas) y obtener la puntuación y el alineamiento óptimo
-en estos dos escenarios.
-
 
 
 ---
